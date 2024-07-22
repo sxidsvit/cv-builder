@@ -2,7 +2,7 @@
 
 ### AI Resume Builder Application
 
-[site](https://cv-builder-sxidsvit.versel.com)
+[site](https://cv-builder-sxidsvit.vercel.com)
 
 ![](demo.gif)
 
